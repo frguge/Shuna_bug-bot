@@ -11,18 +11,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉Limule Solitarus"
+global.ownernomer = "237683449198"
+global.ownername = "𖥳⟅⸢𝐓𝐇𝐄〖𝐅𝐌𝐋〗𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉Limule Solitarus' //owner name
-global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
+global.ownernumber = '237683449198'  //creator number
+global.ownername = 'SHE GRIMM BY //owner name
+global.botname = '𖥳⟅⸢𝐓𝐇𝐄〖𝐅𝐌𝐋〗𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳' //name of the bot
 
 //sticker details
-global.packname = '🍭𝐒𝐞𝐱𝐲 𝐒𝐡𝐮𝐧𝐚-𝐛𝐨𝐭'
+global.packname = '𖥳⟅⸢𝐓𝐇𝐄〖𝐅𝐌𝐋〗𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳'
 global.author = '🐉Limule Solitarus'
 
 //console view/theme

@@ -17,7 +17,7 @@ global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '237683449198'  //creator number
+global.ownernumber = '24390446887'  //creator number
 global.ownername = 'SHE GRIMM BY //owner name
 global.botname = '𖥳⟅⸢𝐓𝐇𝐄〖𝐅𝐌𝐋〗𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳' //name of the bot
 

@@ -11,19 +11,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237683449198"
-global.ownername = "𖥳⟅⸢𝐓𝐇𝐄〖𝐅𝐌𝐋〗𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳"
-global.ytname = "YT: Deaethgun635"
+global.ownernomer = "242069283966"
+global.ownername = "MH LA MELO"
+global.ytname = "MH LA MRLO"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '24390446887'  //creator number
+global.ownernumber = '242069283966'  //creator number
 global.ownername = 'SHE GRIMM BY //owner name
-global.botname = '𖥳⟅⸢𝐓𝐇𝐄〖𝐅𝐌𝐋〗𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳' //name of the bot
+global.botname = 'mh la melo' //name of the bot
 
 //sticker details
 global.packname = '𖥳⟅⸢𝐓𝐇𝐄〖𝐅𝐌𝐋〗𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳'
-global.author = '🐉Limule Solitarus'
+global.author = 'la melo'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -36,13 +36,13 @@ global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
-global.autobio = false //auto update bio
+global.autoread = true //auto read messages
+global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
